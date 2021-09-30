@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    font-family: cursive;
+}
+.menu{
+    list-style: none;
+    position:sticky;
+    color:White;
+    top:0;
+    bottom:0;
+}
